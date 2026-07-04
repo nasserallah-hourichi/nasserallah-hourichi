@@ -25,19 +25,22 @@
 
 ![SUMMARY](https://img.shields.io/badge/SUMMARY-000000?style=for-the-badge&labelColor=000000)
 
-Performance-driven Senior Software Engineer specializing in enterprise full-stack architecture, high-availability microservices, and containerized cloud deployment pipelines. Expert in designing distributed B2B systems, orchestrating complex schema migrations, optimizing large-scale data streams, and mentoring technical teams.
+Performance-driven Senior Software Engineer specializing in enterprise full-stack architecture, high-availability microservices, and containerized cloud deployment pipelines[cite: 1]. Expert in designing distributed B2B systems, orchestrating complex schema migrations, optimizing large-scale data streams, and mentoring technical teams[cite: 1].
 
 ---
 
 ![GLOBAL METRICS](https://img.shields.io/badge/GLOBAL%20METRICS-000000?style=for-the-badge&labelColor=000000)
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=nasserallah-hourichi&theme=darkhub&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="Metrics Trophies" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nasserallah-hourichi&show_icons=true&include_all_commits=true&count_private=true&theme=dark" alt="Execution Metrics Grid" height="160" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/github/followers/nasserallah-hourichi?style=for-the-badge&label=FOLLOWERS&logo=github&color=000000&labelColor=000000&logoColor=ffffff" alt="Followers"/></td>
+    <td><img src="https://img.shields.io/github/stars/nasserallah-hourichi?style=for-the-badge&label=STARS%20EARNED&logo=github&color=000000&labelColor=000000&logoColor=ffffff" alt="Stars"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/github/directory-file-count/nasserallah-hourichi?style=for-the-badge&label=REPOSITORIES&logo=github&color=000000&labelColor=000000&logoColor=ffffff" alt="Repos"/></td>
+    <td><img src="https://img.shields.io/badge/STATUS-ACTIVE%20EXECUTION-000000?style=for-the-badge&logo=githubactions&logoColor=ffffff&labelColor=000000" alt="Status"/></td>
+  </tr>
+</table>
 
 ---
 
@@ -79,11 +82,3 @@ Performance-driven Senior Software Engineer specializing in enterprise full-stac
 ![Microservices](https://img.shields.io/badge/MICROSERVICES-000000?style=for-the-badge&logo=auth0&logoColor=ffffff)
 ![OpenTelemetry](https://img.shields.io/badge/OPENTELEMETRY-000000?style=for-the-badge&logo=opentelemetry&logoColor=ffffff)
 ![Jira](https://img.shields.io/badge/JIRA%20SOFTWARE-000000?style=for-the-badge&logo=jira&logoColor=ffffff)
-
----
-
-![PERFORMANCE PROJECTIONS](https://img.shields.io/badge/PERFORMANCE%20PROJECTIONS-000000?style=for-the-badge&labelColor=000000)
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasserallah-hourichi&layout=compact&theme=dark" alt="Top Languages Spectrum" height="150" />
-</p>
