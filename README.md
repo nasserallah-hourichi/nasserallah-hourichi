@@ -31,11 +31,9 @@ Performance-driven Senior Software Engineer specializing in enterprise full-stac
 
 ![GLOBAL METRICS](https://img.shields.io/badge/GLOBAL%20METRICS-000000?style=for-the-badge&labelColor=000000)
 
-<!-- Global Metrics Component -->
-<img src="https://github-readme-stats.vercel.app/api?username=nasserallah-h&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark&bg_color=000000&hide_border=false&border_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="Execution Metrics Grid" height="160" />
-
-<!-- Top Languages Component -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasserallah-h&layout=compact&theme=dark&bg_color=000000&hide_border=false&border_color=ffffff&text_color=ffffff&title_color=ffffff" alt="Top Languages Spectrum" height="150" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nasserallah-hourichi&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&hide_border=false&border_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="Execution Metrics Grid" height="160" />
+</p>
 
 ---
 
@@ -83,5 +81,5 @@ Performance-driven Senior Software Engineer specializing in enterprise full-stac
 ![PERFORMANCE PROJECTIONS](https://img.shields.io/badge/PERFORMANCE%20PROJECTIONS-000000?style=for-the-badge&labelColor=000000)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=dark&bg_color=000000&hide_border=false&border_color=ffffff&text_color=ffffff&title_color=ffffff" alt="Top Languages Spectrum" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasserallah-hourichi&layout=compact&bg_color=000000&hide_border=false&border_color=ffffff&text_color=ffffff&title_color=ffffff" alt="Top Languages Spectrum" height="150" />
 </p>
