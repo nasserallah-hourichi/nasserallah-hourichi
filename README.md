@@ -25,14 +25,18 @@
 
 ![SUMMARY](https://img.shields.io/badge/SUMMARY-000000?style=for-the-badge&labelColor=000000)
 
-Performance-driven Senior Software Engineer specializing in enterprise full-stack architecture, high-availability microservices, and containerized cloud deployment pipelines[cite: 1]. Expert in designing distributed B2B systems, orchestrating complex schema migrations, optimizing large-scale data streams, and mentoring technical teams[cite: 1].
+Performance-driven Senior Software Engineer specializing in enterprise full-stack architecture, high-availability microservices, and containerized cloud deployment pipelines. Expert in designing distributed B2B systems, orchestrating complex schema migrations, optimizing large-scale data streams, and mentoring technical teams.
 
 ---
 
 ![GLOBAL METRICS](https://img.shields.io/badge/GLOBAL%20METRICS-000000?style=for-the-badge&labelColor=000000)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nasserallah-hourichi&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&hide_border=false&border_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="Execution Metrics Grid" height="160" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nasserallah-hourichi&theme=darkhub&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="Metrics Trophies" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nasserallah-hourichi&show_icons=true&include_all_commits=true&count_private=true&theme=dark" alt="Execution Metrics Grid" height="160" />
 </p>
 
 ---
@@ -81,5 +85,5 @@ Performance-driven Senior Software Engineer specializing in enterprise full-stac
 ![PERFORMANCE PROJECTIONS](https://img.shields.io/badge/PERFORMANCE%20PROJECTIONS-000000?style=for-the-badge&labelColor=000000)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasserallah-hourichi&layout=compact&bg_color=000000&hide_border=false&border_color=ffffff&text_color=ffffff&title_color=ffffff" alt="Top Languages Spectrum" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasserallah-hourichi&layout=compact&theme=dark" alt="Top Languages Spectrum" height="150" />
 </p>
